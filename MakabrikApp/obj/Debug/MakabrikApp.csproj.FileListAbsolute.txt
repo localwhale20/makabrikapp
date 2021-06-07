@@ -1,0 +1,14 @@
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\bin\Debug\MakabrikApp.exe.config
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\bin\Debug\MakabrikApp.exe
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\bin\Debug\MakabrikApp.pdb
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.Properties.Resources.resources
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.exe
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.pdb
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.Main.resources
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.AdminLogin.resources
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.AdminMain.resources
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.LoginError.resources
+C:\Users\Данил\source\repos\MakabrikApp\MakabrikApp\obj\Debug\MakabrikApp.About.resources
